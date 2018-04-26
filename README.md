@@ -30,3 +30,7 @@ Resource for developing computer skills
 ## Fuzzing
 
 [Fuzzing Adobe Reader](https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html)
+
+# Reverse Engineering
+
+[Reverse Engineering x64 for Beginners](http://niiconsulting.com/checkmate/2018/04/reverse-engineering-x64-for-beginners-linux/)
