@@ -26,3 +26,7 @@ Resource for developing computer skills
 [Security Affairs](http://securityaffairs.co/wordpress/)
 
 [The Register](https://www.theregister.co.uk/security/)
+
+## Fuzzing
+
+[Fuzzing Adobe Reader](https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html)
