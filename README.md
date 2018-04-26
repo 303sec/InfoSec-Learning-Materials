@@ -18,9 +18,11 @@ Resource for developing computer skills
 ## General OSCP Guides/Resources
 
 [Abatchy's Guide (apparently pretty good!)](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob.html)
+
 [Zero to OSCP in 292 days](https://blog.mallardlabs.com/zero-to-oscp-in-292-days-or-how-i-accidentally-the-whole-thing-part-2/)
 
 ## Infosec News
 
 [Security Affairs](http://securityaffairs.co/wordpress/)
+
 [The Register](https://www.theregister.co.uk/security/)
