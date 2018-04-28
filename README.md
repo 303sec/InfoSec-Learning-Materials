@@ -32,11 +32,11 @@ Resource for developing computer skills
 
 ## OSCP Reviews/Writeups
 
-[Process Focused Review](https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/)
+~~[Process Focused Review](https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/)~~
 
-[Full marks in 90 days](https://coffeegist.com/security/my-oscp-experience/)
+~~[Full marks in 90 days](https://coffeegist.com/security/my-oscp-experience/)~~
 
-[Zero to OSCP in 292 days](https://blog.mallardlabs.com/zero-to-oscp-in-292-days-or-how-i-accidentally-the-whole-thing-part-2/)
+[Zero to OSCP in 292 days (still somewhat relevant)](https://blog.mallardlabs.com/zero-to-oscp-in-292-days-or-how-i-accidentally-the-whole-thing-part-2/)
 
 ## Fuzzing
 
