@@ -60,7 +60,11 @@ Resource for developing computer skills
 
 [OSCP Cheat Sheet](https://github.com/mikaelkall/OSCP-cheat-sheet)
 
+[Bunch of interesting 1-liners and notes](https://github.com/gajos112/OSCP)
+
 ## Non-Preinstalled Kali Tools
 
 [Doubletap - loud/fast scanner](https://github.com/benrau87/doubletap)
+
+[Reconnoitre](https://github.com/codingo/Reconnoitre)
 
