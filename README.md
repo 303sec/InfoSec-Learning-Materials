@@ -46,6 +46,10 @@ Resource for developing computer skills
 
 [Reverse Engineering x64 for Beginners](http://niiconsulting.com/checkmate/2018/04/reverse-engineering-x64-for-beginners-linux/)
 
+## Pivoting
+
+[The Red Teamer's Guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
+
 ## Github Disovered OSCP Tools/Resources
 
 [Collection of things made during OSCP journey](https://github.com/ihack4falafel/OSCP)
