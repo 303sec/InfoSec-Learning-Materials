@@ -72,3 +72,6 @@ Resource for developing computer skills
 
 [Reconnoitre](https://github.com/codingo/Reconnoitre)
 
+## Misc
+
+[Windows Kernel Exploitation](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
