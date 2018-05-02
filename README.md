@@ -4,6 +4,7 @@ Resource for developing computer skills
 
 
 ## Buffer Overflows
+
 [Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
 
 [dostackbufferoverflowgood - easy to read](https://github.com/justinsteven/dostackbufferoverflowgood)
@@ -14,6 +15,9 @@ Resource for developing computer skills
 
 [Live Overflow's Binary Hacking Videos](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
+## Binary Exploitation
+
+[Binary Exploitation ELI5](https://medium.com/@danielabloom/binary-exploitation-eli5-part-1-9bc23855a3d8)
 
 ## General OSCP Guides/Resources
 
