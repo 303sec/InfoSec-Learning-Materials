@@ -76,6 +76,10 @@ Resource for developing computer skills
 
 [Reconnoitre](https://github.com/codingo/Reconnoitre)
 
+## Source Code Review / Analysis
+
+[Static Analysis Tools](https://github.com/mre/awesome-static-analysis)
+
 ## Misc
 
 [Windows Kernel Exploitation](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
