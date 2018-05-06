@@ -50,6 +50,8 @@ Resource for developing computer skills
 
 [Reverse Engineering x64 for Beginners](http://niiconsulting.com/checkmate/2018/04/reverse-engineering-x64-for-beginners-linux/)
 
+[Backdoor - Reverse Engineering CTFs](https://backdoor.sdslabs.co/)
+
 ## Pivoting
 
 [The Red Teamer's Guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
@@ -79,6 +81,10 @@ Resource for developing computer skills
 ## Source Code Review / Analysis
 
 [Static Analysis Tools](https://github.com/mre/awesome-static-analysis)
+
+## Malware Analysis
+
+[Malware Analysis for Hedgehogs (YouTube)](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) 
 
 ## Misc
 
