@@ -91,3 +91,5 @@ Resource for developing computer skills
 ## Misc
 
 [Windows Kernel Exploitation](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
+
+[Bunch of interesting tools/commands](https://github.com/adon90/pentest_compilation)
