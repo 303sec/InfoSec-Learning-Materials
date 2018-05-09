@@ -3,6 +3,10 @@
 Resource for developing computer skills
 
 
+## Practice
+
+[Exploit Exercises](https://exploit-exercises.com/)
+
 ## Buffer Overflows
 
 [Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
@@ -93,3 +97,4 @@ Resource for developing computer skills
 [Windows Kernel Exploitation](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
 
 [Bunch of interesting tools/commands](https://github.com/adon90/pentest_compilation)
+
