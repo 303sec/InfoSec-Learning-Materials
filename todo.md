@@ -8,3 +8,20 @@
   - Method: Keep finding and adding stuff until it becomes unmaintainable without categories.
 
 - Work on the process document, making things gradually more automated!
+
+
+- Add the following links:
+
+http://pwnable.kr/
+
+https://microcorruption.com/login
+
+https://www.hackthis.co.uk/
+
+https://www.sabrefilms.co.uk/revolutionelite/
+
+https://www.wechall.net/
+
+https://cryptopals.com/
+
+https://holidayhackchallenge.com/past-challenges/
