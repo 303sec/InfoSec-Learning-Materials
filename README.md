@@ -1,6 +1,6 @@
 # Learning-Materials
 
-Resource for developing computer skills
+Resource for developing infosec skills
 
 
 ## Practice
