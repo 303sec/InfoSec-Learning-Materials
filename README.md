@@ -7,6 +7,16 @@ Resource for developing computer skills
 
 [Exploit Exercises](https://exploit-exercises.com/)
 
+[OverTheWire - Wargames](https://overthewire.org/wargames/)
+
+[Hack This Site](https://www.hackthissite.org/)
+
+[Flare-On](http://www.flare-on.com/)
+
+[Reverse Engineering Challenges](https://challenges.re/)
+
+[CTF Learn](https://ctflearn.com/)
+
 ## Buffer Overflows
 
 [Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
@@ -34,11 +44,13 @@ Resource for developing computer skills
 [Abatchy's Guide (apparently pretty good!)](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob.html)
 
 
-## Infosec News
+## Infosec News / Publications
 
 [Security Affairs](http://securityaffairs.co/wordpress/)
 
 [The Register](https://www.theregister.co.uk/security/)
+
+[Risky Biz](https://risky.biz/)
 
 ## OSCP Reviews/Writeups
 
