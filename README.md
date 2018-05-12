@@ -17,6 +17,8 @@ Resource for developing infosec skills
 
 [CTF Learn](https://ctflearn.com/)
 
+[Mystery Twister - Crypto Challenges](https://www.mysterytwisterc3.org/en/)
+
 ## Buffer Overflows
 
 [Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
