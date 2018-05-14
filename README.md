@@ -100,6 +100,8 @@ Resource for developing infosec skills
 
 [Reconnoitre - recon for OSCP](https://github.com/codingo/Reconnoitre)
 
+[Pandora's Box - bunch of tools](https://github.com/paranoidninja/Pandoras-Box)
+
 ## Source Code Review / Analysis
 
 [Static Analysis Tools](https://github.com/mre/awesome-static-analysis)
