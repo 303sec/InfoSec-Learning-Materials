@@ -47,7 +47,6 @@ Resource for developing infosec skills
 
 [Abatchy's Guide (apparently pretty good!)](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob.html)
 
-
 ## Infosec News / Publications
 
 [Security Affairs](http://securityaffairs.co/wordpress/)
@@ -63,6 +62,8 @@ Resource for developing infosec skills
 ~~[Full marks in 90 days](https://coffeegist.com/security/my-oscp-experience/)~~
 
 [Zero to OSCP in 292 days (still somewhat relevant)](https://blog.mallardlabs.com/zero-to-oscp-in-292-days-or-how-i-accidentally-the-whole-thing-part-2/)
+
+[31-Day OSCP - with some useful info](https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/)
 
 ## Fuzzing
 
