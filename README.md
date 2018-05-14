@@ -98,7 +98,7 @@ Resource for developing infosec skills
 
 [Doubletap - loud/fast scanner](https://github.com/benrau87/doubletap)
 
-[Reconnoitre](https://github.com/codingo/Reconnoitre)
+[Reconnoitre - recon for OSCP](https://github.com/codingo/Reconnoitre)
 
 ## Source Code Review / Analysis
 
