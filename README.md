@@ -33,6 +33,8 @@ Resource for developing infosec skills
 
 [Introduction to 32-bit Windows Buffer Overflows](https://www.veteransec.com/blog/introduction-to-32-bit-windows-buffer-overflows)
 
+[Getting Started with x86 Linux Buffer Overflows](https://scriptdotsh.com/index.php/2018/05/14/getting-started-with-linux-buffer-overflows-part-1-introduction/)
+
 ## Binary Exploitation
 
 [Binary Exploitation ELI5](https://medium.com/@danielabloom/binary-exploitation-eli5-part-1-9bc23855a3d8)
