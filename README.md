@@ -117,3 +117,5 @@ Resource for developing infosec skills
 
 [Bunch of interesting tools/commands](https://github.com/adon90/pentest_compilation)
 
+[Forensics Field Guide](https://trailofbits.github.io/ctf/forensics/)
+
