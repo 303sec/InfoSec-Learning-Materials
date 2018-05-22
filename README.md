@@ -103,6 +103,8 @@ Resource for developing infosec skills
 
 [Pandora's Box - bunch of tools](https://github.com/paranoidninja/Pandoras-Box)
 
+[SleuthQL - SQLi Discovery Tool](https://github.com/RhinoSecurityLabs/SleuthQL)
+
 ## Source Code Review / Analysis
 
 [Static Analysis Tools](https://github.com/mre/awesome-static-analysis)
