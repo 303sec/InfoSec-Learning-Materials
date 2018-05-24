@@ -99,6 +99,8 @@ Resource for developing infosec skills
 
 [Bunch of interesting 1-liners and notes](https://github.com/gajos112/OSCP)
 
+[How to teach yourself infosec](https://github.com/thngkaiyuan/how-to-self-learn-infosec)
+
 ## Non-Preinstalled Kali Tools
 
 [Doubletap - loud/fast scanner](https://github.com/benrau87/doubletap)
