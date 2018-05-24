@@ -127,3 +127,4 @@ Resource for developing infosec skills
 
 [Forensics Field Guide](https://trailofbits.github.io/ctf/forensics/)
 
+[Bug Bounty Hunter's Methodology](https://github.com/jhaddix/tbhm)
