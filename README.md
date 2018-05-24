@@ -109,6 +109,8 @@ Resource for developing infosec skills
 
 [SleuthQL - SQLi Discovery Tool](https://github.com/RhinoSecurityLabs/SleuthQL)
 
+[Commix - Command Injection Exploiter](https://github.com/commixproject/commix)
+
 ## Source Code Review / Analysis
 
 [Static Analysis Tools](https://github.com/mre/awesome-static-analysis)
