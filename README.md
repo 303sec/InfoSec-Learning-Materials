@@ -55,6 +55,8 @@ Resource for developing infosec skills
 
 [Risky Biz](https://risky.biz/)
 
+[Vectra](https://blog.vectra.ai/blog)
+
 ## Infosec Blogs
 
 [Nii Consulting](https://niiconsulting.com/checkmate/)
