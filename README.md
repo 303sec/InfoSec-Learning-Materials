@@ -64,6 +64,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 [Nii Consulting](https://niiconsulting.com/checkmate/)
 
+[Guido Vranken](https://guidovranken.com)
+
 ## OSCP Reviews/Writeups
 
 ~~[Process Focused Review](https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/)~~
