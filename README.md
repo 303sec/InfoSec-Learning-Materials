@@ -2,6 +2,9 @@
 
 Resource for developing infosec skills for upcoming OSCP exam
 
+## OSCP Rules & Documents
+
+[Exam Guide](https://support.offensive-security.com/#!oscp-exam-guide.md)
 
 ## Practice
 
