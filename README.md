@@ -26,6 +26,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 [Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
 
+[Fuzzy Security - Windows Exploit Development](http://www.fuzzysecurity.com/tutorials.html)
+
 [dostackbufferoverflowgood - easy to read](https://github.com/justinsteven/dostackbufferoverflowgood)
 
 [Exploit Exercises](https://exploit-exercises.com/)
