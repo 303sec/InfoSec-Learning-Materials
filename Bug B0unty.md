@@ -7,7 +7,7 @@
 ### Tools
 
 ### General
-[Recon Tools](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d)
+[What tools I use for my recon during #BugBounty](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d)
 
 
 ## Vulnerability Discovery / Fuzzing
