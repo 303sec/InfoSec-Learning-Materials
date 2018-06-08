@@ -68,6 +68,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 [Guido Vranken](https://guidovranken.com)
 
+[SecJuice](https://medium.com/secjuice/)
+
 ## OSCP Reviews/Writeups
 
 ~~[Process Focused Review](https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/)~~
@@ -141,3 +143,5 @@ Resource for developing infosec skills for upcoming OSCP exam
 [Bug Bounty Hunter's Methodology](https://github.com/jhaddix/tbhm)
 
 [**Fantastic** lecture resource for learning assembly](https://www.youtube.com/watch?v=H4Z0S9ZbC0g)
+
+[Awesome WAF bypass/command execution filter bypass](https://medium.com/secjuice/waf-evasion-techniques-718026d693d8)
