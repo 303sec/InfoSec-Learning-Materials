@@ -52,6 +52,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 [Abatchy's Guide (apparently pretty good!)](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob.html)
 
+[Real good guide with many an info](https://www.securitysift.com/offsec-pwb-oscp/)
+
 ## Infosec News / Publications
 
 [Security Affairs](http://securityaffairs.co/wordpress/)
