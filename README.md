@@ -98,6 +98,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 ## Github Disovered OSCP Tools/Resources
 
+[Lots of OSCP Materials](https://gist.github.com/natesubra/5117959c660296e12d3ac5df491da395)
+
 [Collection of things made during OSCP journey](https://github.com/ihack4falafel/OSCP)
 
 [Notes from Study Plan](https://github.com/ferreirasc/oscp)
