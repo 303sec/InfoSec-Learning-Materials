@@ -46,6 +46,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 ## General OSCP Guides/Resources
 
+[Real Useful OSCP Journey](https://infosecuritygeek.com/my-oscp-journey/)
+
 [Tulpa PWK Prep](https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/)
 
 [Tulpa PWK Prep PDF](https://tulpasecurity.files.wordpress.com/2016/09/tulpa-pwk-prep-guide1.pdf)
