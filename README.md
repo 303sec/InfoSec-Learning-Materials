@@ -94,6 +94,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 [Backdoor - Reverse Engineering CTFs](https://backdoor.sdslabs.co/)
 
+[Begin Reverse Engineering: workshop](https://www.begin.re/)
+
 ## Pivoting
 
 [The Red Teamer's Guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
