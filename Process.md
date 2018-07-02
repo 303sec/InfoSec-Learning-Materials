@@ -5,6 +5,14 @@
 - Nmap -> Gobuster / Wfuzz -> Nikto -> Searchsploit
 - [Useful OSCP Notes](https://github.com/dostoevskylabs/dostoevsky-pentest-notes)
 
+## Note taking / Reporting
+
+[OffSec's Reporting Template](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc)
+
+- Read up on what specific requirements there are for extra points
+- Over the next week of study, refine note-taking & screenshotting to make life easier
+- Use OneNote, seems to be recommended a bunch
+
 
 ## Things to do that will be *very* useful
 - Compiling exploits for various operating systems so I don't need to later down the line... github might be best here for finding & checking these.
