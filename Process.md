@@ -3,7 +3,7 @@
 ## Vaguely Important Things (Higher Abstraction PoV)
 - Try Harder = Enumerate Harder
 - Nmap -> Gobuster / Wfuzz -> Nikto -> Searchsploit
-[Useful OSCP Notes](https://github.com/dostoevskylabs/dostoevsky-pentest-notes)
+- [Useful OSCP Notes](https://github.com/dostoevskylabs/dostoevsky-pentest-notes)
 
 
 ## Things to do that will be *very* useful
