@@ -1,4 +1,16 @@
-# Pentest Process
+# OSCP Methodology
+
+## Vaguely Important Things (Higher Abstraction PoV)
+- Try Harder = Enumerate Harder
+- Nmap -> Gobuster / Wfuzz -> Nikto -> Searchsploit
+
+
+## Things to do that will be *very* useful
+- Compiling exploits for various operating systems so I don't need to later down the line... github might be best here for finding & checking these.
+- Making the most of the labs whilst they are available. Try to get through as much as possible, because it's the only limited resource.
+- Look at Penetration Testing book for good methodology
+
+
 
 ## Initial Enumeration
 
