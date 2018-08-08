@@ -44,6 +44,8 @@ Resource for developing infosec skills for upcoming OSCP exam
 
 [Binary Exploitation ELI5](https://medium.com/@danielabloom/binary-exploitation-eli5-part-1-9bc23855a3d8)
 
+[Exploit Development Roadmap](https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/)
+
 ## General OSCP Guides/Resources
 
 [Real Useful OSCP Journey](https://infosecuritygeek.com/my-oscp-journey/)
