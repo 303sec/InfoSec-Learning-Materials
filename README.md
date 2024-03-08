@@ -1,6 +1,6 @@
 # Infosec Learning Materials
 
-Resource for developing infosec skills for upcoming OSCP exam
+Resource for developing skills for OSCP exam and general infosec study
 
 ## OSCP Rules & Documents
 
