@@ -2,6 +2,10 @@
 
 Resource for developing skills for OSCP exam and general infosec study
 
+## Web App Hacking Resources
+
+[Prototype Pollution - The Ultimate Guide](https://www.netspi.com/blog/technical-blog/web-application-pentesting/ultimate-guide-to-prototype-pollution/)
+
 ## OSCP Rules & Documents
 
 [Exam Guide](https://support.offensive-security.com/#!oscp-exam-guide.md)
